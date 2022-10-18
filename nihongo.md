@@ -208,6 +208,10 @@ Shinshitsu - bedroom?
 
 Isu - chair 
 
+Niwe - yard
+
+Tsukue - desk
+
 Heya - room
 
 Daidokoro - kitchen
