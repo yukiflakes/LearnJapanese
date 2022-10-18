@@ -204,6 +204,10 @@ Iwe - house
 
 Furo. - bathroom 
 
+Shinshitsu - bedroom?
+
+Isu - chair 
+
 Heya - room
 
 Daidokoro - kitchen
@@ -233,6 +237,8 @@ Shougaksuei - elementary school
 Chugaksei - middle school
 
 Kogaksei - high school students 
+
+Iiyo - sure thing
 
 O - when you do something to noun like eat , drink and when you ask something 
 
