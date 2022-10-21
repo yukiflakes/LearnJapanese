@@ -244,6 +244,30 @@ Kogaksei - high school students
 
 Iiyo - sure thing
 
+Itsutsu - 
+
+Futatsu -
+
+Mitsu - three things
+
+Hitotsu - 
+
+Mutsu - six things 
+
+Nanatsu - 
+
+Kokonotsu - nine things 
+
+Ikutsu - how many
+
+Ichi ko - use after a noun.
+
+Ringo o ichi ko kudasai 
+
+Example 
+
+heya ni wa tsukue ga i kutsu arimasu ka
+
 O - when you do something to noun like eat , drink and when you ask something 
 
 Ga -
