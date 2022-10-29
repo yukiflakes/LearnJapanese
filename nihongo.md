@@ -1,254 +1,312 @@
 # Japanese
 
-Ocha — green tea
+<details>
+<summary>food and profession Unit 1 </summary>
 
-Gohan - rice
+ * Ocha — green tea
 
-Yasashi - nice
+* Gohan - rice
 
-Lawyer - bengoshi
+* Yasashi - nice
 
-Student - gakusei
+* Lawyer - bengoshi
 
-Person - hito
+* Student - gakusei
 
- This - kore wa/ kore ra — these / kono - person
+* Person - hito
+</details>
 
-That - sore
+<details>
+<summary>Descibing things Unit 2</summary>
 
-Big - ookii
+* This - kore wa/ kore ra — these / kono - person
 
-Small - chiisai
+* That - sore
 
-kanada Jin - Canadian
+* Where - doko
 
-Amerika jin - American 
+* Here - Koko
 
-Igirisu - Britain hi
+* There - soko
 
-Brajiru - brazil
+* Big - ookii
 
-Doitsu - German
+* Small - chiisai
 
-See you tomorrow - Mata haishtha
+</details>
 
-Hotel - hoteru
+<details>
+<summary>Nationality and Places Unit 3 </summary>
 
-Basutei - bus stop
+* kanada Jin - Canadian
 
-Kuukou - airport
+* Amerika jin - American 
 
-Chikatetsu - subway
+* Igirisu - Britain 
 
-Kanbini -Convenience Store - )
+* France go - france language french
+ 
+* Burajiru - brazil
 
-Where - doko
+* Doitsu - German
 
-Here - Koko
+* Hotel - hoteru
 
-There - soko
+* Basutei - bus stop
 
-Deepta - department store
+* Kuukou - airport
 
-Train station - ekki
+* Chikatetsu - subway
 
-University - daigaku
+* Konbini -Convenience Store - )
 
-Red - Akaai
+* Deeptatho - department store
 
-Umbrella - kasa
+* Train station - ekki
 
-hat - Boushi 
+* University - daigaku
+ 
+</details>
 
-Shoe - kutsu
+<details>
+<summary>describing expressions? Unit 4 </summary>
 
-Cheerful - akarui
+* Red - Akaai
 
-Funny - omoshiroi
+* Umbrella - kasa
 
-Ima - now
+* hat - Boushi 
 
-Sanji - 3o clock 
+* Shoe - kutsu
 
-Nanji - time
+* Cheerful - akarui
 
-Sanji han - 3:30
+* Funny - omoshiroi
+</details>
 
-Yon - four
+<details>
+<summary>Describing Numbers Unit 5 </summary>
 
-Go - five 
+* Ima - now
 
-Roku - six 
+* Sanji - 3o clock (Sanji :D)
 
-Nana - seven 
+* Nanji - time
 
-Hachi - eight 
+* Sanji han - 3:30
 
-Kyuu - nine 
+* Yon - four
 
-France go - france language french
+* Go - five 
 
-Jyuu - ten
+* Roku - six 
 
-Juuni - twelve 
+* Nana - seven 
 
-Mo - also
+* Hachi - eight 
 
-About - goro
+* Kyuu - nine 
 
-Excuse me - sumimasen
+* Jyuu - ten
 
-Janai - not
+* Jyuu(ni) - twelve 
 
-Kippu - ticket
+* Mo - also
 
-Sumaho - phone 
+* About - goro
 
-Chizu - map
+</details>
 
-Kaban - bag.
+<details>
+<summary>Everyday stuff? Unit 6 </summary>
 
-Mise - store 
+* Excuse me - sumimasen
 
-Hashi - chopsticks
+* Janai - not
 
-Takai - expensive
+* Kippu - ticket
 
-Yasui - cheap
+* Sumaho - phone 
 
-Machi - town
+* Chizu - map
 
-Kuroi - black
+* Kaban - bag.
 
-Tori - bird
+* Mise - store 
 
-Ii / ee - good 
+* Hashi - chopsticks
 
-Onegaisimasu - please 
+* Takai - expensive
 
-Doumo - very much 
+* Yasui - cheap
 
-Douzo - here you are
+* Machi - town
 
-Doui tashi mashite - you're welcome 
+* Kuroi - black
 
-Kochi ra koso - likewise/ you too as well
+* Tori - bird
 
-Oyasumi nasai - good night
+* Ii / ee - good 
 
-Dewa - well
+* Onegaisimasu - please 
 
-Ja - well then
+* See you tomorrow - Mata haishth(huh sstha)
 
-Shushusin - from
+* Doumo - very much 
 
-Iimasu - name Sandhya to iimasu my name is Sandhya
+* Douzo - here you are
 
-Eigo - English
+* Doui tashi mashite(maash ste) - you're welcome 
 
-Ga hanasemasu - can speak
+* Kochi ra koso - likewise/ you too as well
 
-Mochi Ron - ofcourse
+* Oyasumi nasai - good night
 
-Dewa Arimasen - i am not 
+* Dewa - well
 
-Tabemaseu - will eat
+* Ja - well then
+ </details>
 
-Nomimasu - will drink
+<details>
+<summary> Unit 7 </summary>
 
-Masen - will not
+ * Shushusin - from
 
-Pan - bread
+* Iimasu - name Sandhya to iimasu my name is Sandhya
 
-Sakana - fish
+* Eigo - English
 
-Yasai - vegetable
+* Ga hanasemasu - can speak
 
-Koohi - coffee
+* Mochi Ron - ofcourse
 
-Gyuunyuu - milk
+* Dewa Arimasen - i am not 
 
-Gochirosama deshi ta - thank you for the food
+* Tabemaseu - will eat
 
-Dore - which
+* Nomimasu - will drink
 
-Choudou - exactly
+* Masen - will not
+ 
+</details>
 
-Ikimasu - will go 
+<details>
+<summary>Describing food Unit 7 </summary>
 
-Gakkou - school
+* Pan - bread
 
-Kaisha - company
+* Sakana - fish
 
-Gogo - afternoon/PM
+* Yasai - vegetable
 
-Gozen - AM
+* Koohi - coffee
 
-Reiji - 12 AM
+* Gyuunyuu - milk
 
-Okimasu - getup 
+* Gochirosama deshi ta - thank you for the food
 
-Nemasu - sleep
+* Dore - which
 
-Mainasa - every morning 
+* Choudou - exactly
+ 
+</details>
 
-Mainnichi - every day
+<details>
+<summary>Describing Action? Unit 8 </summary>
 
-Arimasu/imasu single i- not name there is there are/ living this 
+* Ikimasu - will go 
 
-Imasu ka - do you have
+* Gakkou - school
 
-Mado - window 
+* Kaisha - company
 
-Iwe - house
+* ogo - afternoon/PM
 
-Furo. - bathroom 
+* Gozen - AM
 
-Shinshitsu - bedroom?
+* Reiji - 12 AM
 
-Isu - chair 
+* Okimasu - getup 
 
-Niwe - yard
+* Nemasu - sleep
 
-Tsukue - desk
+* Mainasa - every morning 
 
-Heya - room
+* Mainnichi - every day
 
-Daidokoro - kitchen
+* Arimasu/imasu single i- not name there is there are/ living this 
 
-Live in - sunde imasu 
+* Imasu ka - do you have
+</details> 
 
-Sai - years old
+<details>
+<summary>Describing House? Unit 9 </summary>
 
-Yo - end of sentence like an exclamation
+* Mado - window 
+
+* Iwe - house
+
+* Furo. - bathroom 
+
+* Shinshitsu - bedroom?
+
+* Isu - chair 
+
+* Niwe - yard
+
+* Tsukue - desk
+
+* Heya - room
+
+* Daidokoro - kitchen
+
+* Live in - sundei imasu
+
+* Sai - years old
+
+Yo - end of sentence like an exclamation naruto uses it all the time iirc
 
 Ne - right?
+</details>
 
-Sundei masu - live in 
+<details>
+<summary>Unit 10 </summary>
 
-Tomoushi - name is
+ 
+* Tomoushi - name is
 
-Gaigokujin - foreigner
+* Gaigokujin - foreigner
 
-Ryugaksui - foreign exchange student 
+* Ryugaksuei - foreign exchange student 
 
-Chigai - not right/difference
+* Chigai - not right/difference
 
-Nensei - grade
+* Nensei - grade
 
-Shougaksuei - elementary school
+* Shougaksuei - elementary school
 
-Chugaksei - middle school
+* Chugaksei - middle school
 
-Kogaksei - high school students 
+* Kogaksei - high school students 
 
-Iiyo - sure thing
+* Iiyo - sure thing
 
-Itsutsu - 
+</details>
 
-Futatsu -
+<details>
+<summary>Counting Things Unit 11 </summary>
+ 
+* Ikutsu - How many 
 
-Mitsu - three things
+* hititsu - one thing
+ 
+* Futatsu - two things
+
+* Mitsu - three things
+
+* Yotsu - four things
+ 
+* nanatsu - seven things
 
 Hitotsu - 
 
@@ -256,17 +314,44 @@ Mutsu - six things
 
 Nanatsu - 
 
+
 Kokonotsu - nine things 
 
 Ikutsu - how many
 
-Ichi ko - use after a noun.
+</details>
 
-Ringo o ichi ko kudasai 
+<details>
+ <summary>Family Unit 12</summary>
+ adding no after I changes to my mine etc
+ 
+ * Kare - his
+ 
+ * Kanojo - she
+ 
+*  Karera - They (korera for non-living) this generally refers to men kanojotachi 
+  
+There is a difference when you talk about your family vs others(you add san for others)
+ 
+* Otosan/chichi - Father/My father
+
+* Okasan/haha - Mother
+ 
+* Onesan/ane - Older sister
+ 
+* Onisan/ani - Older brother
+
+ 
+ 
+</details>
 
 Example 
 
 heya ni wa tsukue ga i kutsu arimasu ka
+Ichi ko - use after a noun.
+chichi mo haha mo genki desu(use mo when there are two nouns -> Both)
+
+Ringo o ichi ko kudasai 
 
 O - when you do something to noun like eat , drink and when you ask something 
 
@@ -275,3 +360,6 @@ Ga -
 Ni - use this after the time when something happens and when you're going somewhere you can also use e for going 
 
 Mo -
+
+Ko - 
+
