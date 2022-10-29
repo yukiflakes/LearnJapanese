@@ -275,7 +275,7 @@ Ne - right?
  
 * Tomoushi - name is
 
-* Gaigokujin - foreigner
+* Gaikokujin - foreigner
 
 * Ryugaksuei - foreign exchange student 
 
@@ -287,7 +287,7 @@ Ne - right?
 
 * Chugaksei - middle school
 
-* Kogaksei - high school students 
+* Koukousei - high school students 
 
 * Iiyo - sure thing
 
@@ -305,19 +305,18 @@ Ne - right?
 * Mitsu - three things
 
 * Yotsu - four things
+
+* itsutsu - five things
  
-* nanatsu - seven things
+* Mutsu - six things 
 
-Hitotsu - 
+* Nanatsu - seven things
 
-Mutsu - six things 
+* Yatsu - eight things
 
-Nanatsu - 
+* Kokonotsu - nine things 
 
-
-Kokonotsu - nine things 
-
-Ikutsu - how many
+* Ikutsu - how many
 
 </details>
 
@@ -340,8 +339,33 @@ There is a difference when you talk about your family vs others(you add san for 
 * Onesan/ane - Older sister
  
 * Onisan/ani - Older brother
+ 
+* otouto - younger brother
+ 
+* imouto - younger sister
+ 
+* kyoudai - siblings/brothers
+ 
+* shimai  - sisters
+ 
+* ryoushin - parents
+ 
+* kazoku - family
 
  
+* karai - spicy (kaara)
+ 
+* ikura - how much?
+
+* man - 10000
+
+* sen - 1000
+
+* hyaku - 100 
+
+* dare - who
+ 
+
  
 </details>
 
