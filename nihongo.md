@@ -352,8 +352,11 @@ There is a difference when you talk about your family vs others(you add san for 
  
 * kazoku - family
 
- 
+### Food
+
 * karai - spicy (kaara)
+ 
+* amai - sweet
  
 * ikura - how much?
 
@@ -365,6 +368,24 @@ There is a difference when you talk about your family vs others(you add san for 
 
 * dare - who
  
+* dono - Which
+ 
+* hirugohan - lunch
+
+* asagohan - breakfast
+ 
+* atsui - hot
+ 
+* tsumetai - cold
+
+* mazui - tastes bad
+
+* shokudou - cafeteria
+ 
+* suki - like
+ 
+* kirai - don't like
+ 
 
  
 </details>
@@ -374,6 +395,8 @@ Example
 heya ni wa tsukue ga i kutsu arimasu ka
 Ichi ko - use after a noun.
 chichi mo haha mo genki desu(use mo when there are two nouns -> Both)
+nihongo **de** onegaa i shimasu
+tamago **ga** suki desu
 
 Ringo o ichi ko kudasai 
 
