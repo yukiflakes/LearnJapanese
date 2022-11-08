@@ -370,9 +370,13 @@ There is a difference when you talk about your family vs others(you add san for 
  
 * dono - Which
  
+* itsu - when
+ 
 * hirugohan - lunch
 
 * asagohan - breakfast
+ 
+* bangohan - dinner
  
 * atsui - hot
  
@@ -390,15 +394,62 @@ There is a difference when you talk about your family vs others(you add san for 
  
 </details>
 
-Example 
+<details>
+<summary>Verbs Unit 13</summary>
+ 
+ * jikan - time
+ 
+ * kimasu - come 
+ 
+ * kaimasu - busy
+ 
+ * hataraki - working/simple work 
+ 
+ * shigoto - work/ like a job 
+ the difference is that the first word is a verb, and the second one is a noun. As such, the first one has a slightly broader meaning. 
+ Shigoto is like "job that you  earn a wage/salary at", whereas you can hataraku (work) at something that is not necessarily your shigoto (job).
+ 
+ * isogashi - busy
+ 
+ * kyou - today
+ 
+ * kinou - yesterday 
+ 
+ * ashita - tommorrow 
+ 
+ * asatte - day after tomorrow 
+ 
+ * shimasu/shimashita - do/did?
+ 
+ * kara - from
+ 
+ * 
+ ### days of the week
+ 
+ * nichiyobi - Sunday
+ 
+ * kinyoubi - Friday
+ 
+ * doyoubi - Saturday
+ 
+ 
+ </details>
+
+### Example 
 
 heya ni wa tsukue ga i kutsu arimasu ka
+
 Ichi ko - use after a noun.
+
 chichi mo haha mo genki desu(use mo when there are two nouns -> Both)
+
 nihongo **de** onegaa i shimasu
+
 tamago **ga** suki desu
 
 Ringo o ichi ko kudasai 
+
+itsu shigoto o shimasuka 
 
 O - when you do something to noun like eat , drink and when you ask something 
 
