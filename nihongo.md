@@ -423,10 +423,19 @@ There is a difference when you talk about your family vs others(you add san for 
  
  * kara - from
  
- * 
+ * made - to
+ 
  ### days of the week
  
  * nichiyobi - Sunday
+ 
+ * getsuyoubi - Monday
+ 
+ * kayoubi - Tuesday
+ 
+ * suiyoubi - Wednesday
+ 
+ * mokuyoubi - Thursday
  
  * kinyoubi - Friday
  
@@ -434,6 +443,75 @@ There is a difference when you talk about your family vs others(you add san for 
  
  
  </details>
+
+
+<details>
+<summary>Unit 13</summary>
+
+ * furui - old
+ 
+ * atarashi - new
+ 
+ * nagai - long
+ 
+ * hikui - low
+ 
+ * terebi - TV
+ 
+ * reizoko - Fridge 
+ 
+ * katasumi/sumi - corner
+ 
+ * migi - right
+ 
+ * hidari - left
+ 
+ * ue - up
+ 
+ * shita - down
+ 
+ * naka - inside
+ 
+ * aida - between
+ 
+ * tonari - next (same category living vs living and living vs non living)
+ 
+ * yoko - next to (two different categories living vs non living)
+ 
+ * mae - front
+ 
+ * ushi ro - behind
+ 
+ * takusan - a lot
+ 
+ * number + satsu **juu**satsu - 
+ 
+ * hon - books
+ 
+ * hondana - bookshelf
+ 
+ * uchi - home/our?
+ 
+ * youkoso - welcome
+ 
+ * ryokou - travel
+ 
+ * tokidoki - sometimes
+ 
+ * itsumoo - always
+ 
+ * hitori - alone
+ 
+ * omiyage - souvenir
+ 
+ * kagami - mirror
+ 
+ * kitanai - dirty
+ 
+ 
+ 
+ 
+</details>
 
 ### Example 
 
@@ -451,6 +529,16 @@ Ringo o ichi ko kudasai
 
 itsu shigoto o shimasuka 
 
+kayoubi kara dayoubi made hataraki masu
+
+asagohan no jikan desu yo (it's time for breakfast)
+
+chichi to haha no aida de tabemasu (i eat between my father and mother)
+
+hidarishita ni arimasu (It is on the bottom left)
+
+tokodoki hito de ryokou shimasu
+
 O - when you do something to noun like eat , drink and when you ask something 
 
 Ga -
@@ -460,4 +548,6 @@ Ni - use this after the time when something happens and when you're going somewh
 Mo -
 
 Ko - 
+
+De - 
 
