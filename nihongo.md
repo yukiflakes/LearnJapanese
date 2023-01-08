@@ -513,6 +513,64 @@ There is a difference when you talk about your family vs others(you add san for 
  
 </details>
 
+<details>
+<summary>Unit 13</summary>
+* shuumatsu - weekend
+
+* heijitsu - weekday
+
+* ototoi - day before yest
+
+* sentaku - laundry
+
+* sorekara - after that
+
+* souji - clean
+
+* sugu - right away
+
+* kaette - go home
+
+* ake - open
+
+* shime - close
+
+* tsuke - turn on
+
+* abi -  take 
+
+* chotto - little 
+
+* eiga - movie
+
+* mimasu - watch 
+
+* kakimasu - write/draw
+* kikmasu- 
+
+* e - picture
+* utai - song
+*
+* yomi - read
+* tegami - letter
+* kaite - write
+* hashri - run
+* oyogi - swim
+* narai - learn
+* amari - a lot(amari hashrimasen) when you don't do something a lot
+* ongaku - music
+* uta - song
+* 
+* suwari - sit
+
+* denki - electricity 
+
+* tate - stand
+
+</details>
+
+
+
 ### Example 
 
 heya ni wa tsukue ga i kutsu arimasu ka
@@ -537,7 +595,11 @@ chichi to haha no aida de tabemasu (i eat between my father and mother)
 
 hidarishita ni arimasu (It is on the bottom left)
 
-tokodoki hito de ryokou shimasu
+tokodoki hitori de ryokou shimasu
+
+isu wa sono shita desu
+
+reautoran no naka de tabe masu
 
 O - when you do something to noun like eat , drink and when you ask something 
 
