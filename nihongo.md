@@ -111,6 +111,8 @@
 
 * Jyuu(ni) - twelve 
 
+* hatachi - twenty
+ 
 * Mo - also
 
 * About - goro
@@ -316,7 +318,7 @@ Ne - right?
 
 * Kokonotsu - nine things 
 
-* Ikutsu - how many
+* Ikutsu - how many/how old
 
 </details>
 
@@ -395,13 +397,13 @@ There is a difference when you talk about your family vs others(you add san for 
 </details>
 
 <details>
-<summary>Verbs Unit 13</summary>
+<summary>Verbs</summary>
  
  * jikan - time
  
  * kimasu - come 
  
- * kaimasu - busy
+ * kaimasu - buy
  
  * hataraki - working/simple work 
  
@@ -514,7 +516,7 @@ There is a difference when you talk about your family vs others(you add san for 
 </details>
 
 <details>
-<summary>Unit 13</summary>
+<summary>Unit 14</summary>
 * shuumatsu - weekend
 
 * heijitsu - weekday
@@ -529,7 +531,7 @@ There is a difference when you talk about your family vs others(you add san for 
 
 * sugu - right away
 
-* kaette - go home
+* kaette - go home(kaeri verb)
 
 * ake - open
 
@@ -538,6 +540,8 @@ There is a difference when you talk about your family vs others(you add san for 
 * tsuke - turn on
 
 * abi -  take 
+ 
+* tori - take
 
 * chotto - little 
 
@@ -545,32 +549,83 @@ There is a difference when you talk about your family vs others(you add san for 
 
 * mimasu - watch 
 
-* kakimasu - write/draw
-* kikmasu- 
+* kakimasu - write/draw "to draw" is 描きます(kakimas)
+"to write" is 書きます(kakimas)
+Kanji is different but same pronunciation.
 
+* kikimasu- listen
+* kaite -  to write
 * e - picture
 * utai - song
-*
 * yomi - read
 * tegami - letter
-* kaite - write
 * hashri - run
 * oyogi - swim
 * narai - learn
 * amari - a lot(amari hashrimasen) when you don't do something a lot
 * ongaku - music
 * uta - song
-* 
+* asobi - play
+* tatte - stand
 * suwari - sit
-
+* shashin - photo
 * denki - electricity 
-
-* tate - stand
-
+* yoku - often 
+* mai - slices like two slicesc
 </details>
 
+<details>
+<summary>Unit 15 - Family(kazoku)</summary>
+* shinseki - relatives
+* musume - daughter
+* musuko - son
+* mago musuko/me - grand son/daughter
+* obasan/obaasan/soba - aunt/grandmother/my grandmother
+* ojisan/ojiisan/sofu - uncle/grandfather/my grandfather
+* itoko - cousin
+* otto/shujin - my husband/your husband
+* tsuma/okusan - my wife/your wife
+* o ikutsu - how old
+* okosan - child 
+* zaitaku - home
+ 
+* itte ra sshai - Take care
+* nitei - resembles
+ 
+* densha - train
+* kuruma - car
+* jitensha - bicycle
+* tsukai - use
+* nori - ride
+* sanpo - go on walk for relaxation
+* aruki - walk (to my house)
+ 
+* osoi/osoku - slow/late
+* hayai - fast
+* tooi - far
+* chikai - near
+ 
+* kurai kakari - how long
 
+* shatsu - shirt
+* zubon - pants
+* seeta - sweater
+* sukaato - skirt 
+* fuku - clothes
+* haki/kimasu/kaburi - wear lower part/upper body/hat
+* hoshiku - want 
+* arai masu - wash 
+* nugi - take off (clothes)
+* kuroi - black
+* shiroi - white
+* kiiroi - yellow
+* orenjiro - orange
+* pinkuiro - pink
+* chairo - browm
 
+* aoi - blue
+
+ </details>
 ### Example 
 
 heya ni wa tsukue ga i kutsu arimasu ka
@@ -595,21 +650,31 @@ chichi to haha no aida de tabemasu (i eat between my father and mother)
 
 hidarishita ni arimasu (It is on the bottom left)
 
+watashi ni wa tsuma to san nin kodomo ga i masu(i have wife and 3 children)
+
+koci ra ga tsuma no sakura desu (This is my wife sakura)
+
+karewa chichi(haha)oyani nitei masu(he resembles his father/mother)
+
+hayaku mo osoku mo nai desu (It's neither fast nor slow)
+
+okusan ni yorushiku (my regards to your wife)
+
 tokodoki hitori de ryokou shimasu
 
 isu wa sono shita desu
 
 reautoran no naka de tabe masu
 
+
+
 O - when you do something to noun like eat , drink and when you ask something 
 
-Ga -
+Ga - like wa but moee specific
 
 Ni - use this after the time when something happens and when you're going somewhere you can also use e for going 
 
-Mo -
-
 Ko - 
 
-De - 
+De - at 
 
