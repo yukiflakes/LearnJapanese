@@ -678,3 +678,4 @@ Ko -
 
 De - at 
 
+Ohayo kawai baka :D
